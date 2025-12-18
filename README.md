@@ -21,6 +21,7 @@ Eu sou um estudante buscando conhecimento através de estudo e prática para me 
 ---
 
 ## 🔎 Sobre mim
+  **Calma eu estou terminando**
 
 
 
