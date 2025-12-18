@@ -14,14 +14,23 @@ Eu sou um estudante buscando conhecimento através de estudo e prática para me 
 
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,java,python,nextjs,react,typescript,javascript,nodejs,git,linux" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,nextjs,react,typescript,javascript,nodejs,vscode,git,linux" />
 </a>
 </div>
 
 ---
 
-## 🔎 Sobre mim
+### 🔎 Sobre mim
   **Calma eu estou terminando**
+
+
+### 📫 Contatos
+
+<div align="center">
+<a href="mailto:dev.lemirving@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/irving-ri%C3%A7a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://lattes.cnpq.br/2897820900369098" target="_blank"><img src="https://img.shields.io/badge/-Lattes-orange?style=for-the-badge&logo=GitBook&logoColor=white"></a>
+</div>
 
 
 
