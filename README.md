@@ -18,9 +18,6 @@ Eu sou um estudante buscando conhecimento através de estudo e prática para me 
 </a>
 </div>
 
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemirving&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
