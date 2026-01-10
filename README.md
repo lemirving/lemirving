@@ -7,7 +7,7 @@
 Eu sou um estudante buscando conhecimento através de estudo e prática para me tornar um bom cientista da computação. No meio disso tudo, estou buscando melhorar o uso de ferramentas como github e outras práticas DevOps. Atualmente possuo estudos na área de compiladores/linguagens de programação, web development e IA. A maioria dos repositórios nessa conta são curiosidades postas em prática e projetos pessoais em andamento ou concluídos. Alguns projets dedicados à universidade são públicos também.  
 
 ---
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lemirving&theme=tokyonight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemirving&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| [![GitHub Commits]([http://github-profile-summary-cards.vercel.app/api/cards/productive-time](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemirving&theme=tokyonight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemirving&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ----------- | ----------- |
 
 ---
