@@ -13,7 +13,7 @@ Eu sou um estudante buscando conhecimento através de estudo e prática para me 
 ### 🚀 Tecnologias
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,java,python,nextjs,react,typescript,javascript,nodejs,vscode,git,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,nextjs,react,typescript,javascript,nodejs,vscode,git,linux" />
 </a>
 </div>
 
